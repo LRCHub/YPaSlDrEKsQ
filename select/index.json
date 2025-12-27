@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "メロディー (2022 仙台 LIVE)",
+  "base_artist": "玉置浩二",
+  "createdAt": "2025-12-27T04:25:24.873749Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メロディー",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/01_メロディー_中島_美嘉.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メロディー（2005LIVE）",
+      "artist": "玉置浩二",
+      "has_synced": false,
+      "path": "select/02_メロディー(2005LIVE)_玉置浩二.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メロディー",
+      "artist": "中島美嘉",
+      "has_synced": false,
+      "path": "select/03_メロディー_中島美嘉.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メロディー",
+      "artist": "Koji Tamaki",
+      "has_synced": true,
+      "path": "select/04_メロディー_Koji_Tamaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メロディー",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/05_メロディー_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メロディー (LIVE 2015 旭川)",
+      "artist": "玉置浩二",
+      "has_synced": false,
+      "path": "select/06_メロディー_(LIVE_2015_旭川)_玉置浩二.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メロディー",
+      "artist": "whiteeeen",
+      "has_synced": false,
+      "path": "select/07_メロディー_whiteeeen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メロディー",
+      "artist": "Anzen Chitai",
+      "has_synced": true,
+      "path": "select/08_メロディー_Anzen_Chitai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メロディー (LIVE 2015 旭川)",
+      "artist": "Koji Tamaki",
+      "has_synced": false,
+      "path": "select/09_メロディー_(LIVE_2015_旭川)_Koji_Tamaki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メロディー",
+      "artist": "玉置浩二",
+      "has_synced": true,
+      "path": "select/10_メロディー_玉置浩二.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メロディー",
+      "artist": "中岛美嘉",
+      "has_synced": true,
+      "path": "select/11_メロディー_中岛美嘉.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "メロディー",
+      "artist": "玉置浩二",
+      "has_synced": true,
+      "path": "select/12_メロディー_玉置浩二.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "メロディー - Melody",
+      "artist": "Koji Tamaki",
+      "has_synced": true,
+      "path": "select/13_メロディー_-_Melody_Koji_Tamaki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "メロディー (Acoustic ver.)",
+      "artist": "FUNKIST",
+      "has_synced": false,
+      "path": "select/14_メロディー_(Acoustic_ver.)_FUNKIST.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "カラフル × メロディー",
+      "artist": "ちーむMOER",
+      "has_synced": true,
+      "path": "select/15_カラフル_×_メロディー_ちーむMOER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メロディー",
+      "artist": "玉置 浩二",
+      "has_synced": false,
+      "path": "select/pl_01_メロディー_玉置_浩二.txt"
+    }
+  ]
+}
